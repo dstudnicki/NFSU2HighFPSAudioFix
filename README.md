@@ -1,7 +1,6 @@
 # NFSU2 High FPS Audio Fix — Installation
 
-An experimental audio timing fix for Need for Speed Underground 2. The same ASI plugin is intended for Windows and Wine/Proton. It has passed short tests on Linux; native Windows support and long sessions have not yet been verified.
-
+Audio timing fix for Need for Speed Underground 2. The same ASI plugin is intended for Windows and Wine/Proton.
 ## Installation
 
 1. Close the game.
