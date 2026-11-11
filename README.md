@@ -16,3 +16,12 @@ The fix accumulates elapsed time across frames and passes the total when the aud
 ## Disabling the fix and compatibility
 
 Close the game, set `Enabled = 0`, or move the ASI file out of `scripts`, then restart the game. You do not need to restore the executable. The ASI plugin itself does not write career saves, but the game can still save the active profile normally.
+
+## Usage in Underground 2 Revived
+
+This fix is currently used in the Underground 2 Revived project. It is listed in the Mods section as a fix for the gear-shifting audio issue that can occur when playing at high FPS.
+
+<p>
+  <img src="underground2reviwedmodtab.png" height="220" alt="Fix details">
+  <img src="underground2reviwedmodtablist.png" height="220" alt="Mods list">
+</p>
