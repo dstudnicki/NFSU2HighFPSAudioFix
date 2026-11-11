@@ -18,7 +18,7 @@ Close the game, set `Enabled = 0`, or move the ASI file out of `scripts`, then r
 
 ## Usage in Underground 2 Revived
 
-This fix is currently used in the Underground 2 Revived project. It is listed in the Mods section as a fix for the gear-shifting audio issue that can occur when playing at high FPS.
+This fix is currently used in the [Underground 2 Revived project](https://nfsu2.xyz/). It is listed in the Mods section as a fix for the gear-shifting audio issue that can occur when playing at high FPS.
 
 <p>
   <img src="underground2reviwedmodtab.png" height="220" alt="Fix details">
